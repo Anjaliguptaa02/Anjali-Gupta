@@ -1,0 +1,6 @@
+{
+  "name": "StudyBuddy AI",
+  "description": "A comprehensive, intelligent educational web platform for students featuring AI note generation, interactive quizzes, study schedule planner, Pomodoro timer, and AI StudyBot assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
